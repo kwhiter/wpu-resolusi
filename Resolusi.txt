@@ -1,3 +1,4 @@
 Rencana Resolusi di tahun 2023
 1. Harus bisa framework php yaitu khusus codeigniter dan laravel
 2. Harus bisa buat aplikasi android
+3. Harus belajar hal - hal yang baru
